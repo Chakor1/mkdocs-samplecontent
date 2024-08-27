@@ -13,3 +13,7 @@ sections:
   - title: Contact
     pages:
       - title: Contact Form
+
+plugins:
+  - mkdocs-yaml:
+      file: index.yaml
