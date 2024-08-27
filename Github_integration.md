@@ -1,0 +1,1 @@
+How to integrate your Hugo or Mkdocs site with GitHub.

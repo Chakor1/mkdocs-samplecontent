@@ -1,0 +1,1 @@
+A guide to Markdown syntax for writing content.

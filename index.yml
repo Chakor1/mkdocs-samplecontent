@@ -1,0 +1,16 @@
+title: My Sample Website
+
+sections:
+  - title: Introduction
+    pages:
+      - title: Welcome
+      - title: About Me
+  - title: Technical Topics
+    pages:
+      - title: MkDocs Basics
+      - title: Markdown Essentials
+      - title: GitHub Integration
+  - title: Contact
+    pages:
+      - title: Contact Form
+        content: 'A simple contact form for visitors to reach out.'
