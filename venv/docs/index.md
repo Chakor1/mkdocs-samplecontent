@@ -1,4 +1,4 @@
-# Welcome to SmartSpaces Documentation
+# Home
 
 For demo videos, visit [hitachids](https://hitachids.com/service/smart-spaces/).
 
