@@ -29,7 +29,7 @@ extra_css:
 extra_javascript:
   - assets/javascripts/bootstrap.min.js
 
-copyright:  '&copy; Hitachi Vantara LLC 2022. All Rights Reserved.'
+copyright:  '&copy; Hitachi Digital Services LLC 2024. All Rights Reserved.'
 
 # Page tree
 nav:
