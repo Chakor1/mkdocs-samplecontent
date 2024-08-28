@@ -1,4 +1,43 @@
-title: My Sample Website
+site_name: Hitachi Smartspaces
+site_description: Hitachi Smartspaces Documentation
+
+theme:
+    name: material
+    custom_dir: overrides/
+    include_search_page: false
+    search_index_only: true
+
+    language: en
+    features:
+        - navigation.tabs
+        - navigation.top
+
+    palette:
+        scheme: default
+        primary: black
+        accent: none
+    font:
+        text: Roboto
+        code: Roboto Mono
+    favicon: assets/images/favicon.ico
+    logo: assets/images/logo.png
+
+extra_css:
+   - assets/stylesheets/extra.css
+   - assets/stylesheets/bootstrap.min.css
+
+extra_javascript:
+  - assets/javascripts/bootstrap.min.js
+
+copyright:  '&copy; Hitachi Vantara LLC 2022. All Rights Reserved.'
+
+# Page tree
+nav:
+  - Home: index.md
+  - Getting Started:
+    - Getting started with Smartspaces: Getting-started.md
+    - Resetting password: Password_reset.md
+
 
 sections:
   - title: Introduction
