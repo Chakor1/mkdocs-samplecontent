@@ -1,6 +1,6 @@
 site_name: Hitachi Smartspaces
 theme:
-  name: material
+  name: readthedocs
   features:
     - navigation.tabs
     - navigation.sections
@@ -11,6 +11,9 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - toc.follow
+    - toc.integrate
+    - navigation.expand
   language: en
   palette:
     - scheme: default
