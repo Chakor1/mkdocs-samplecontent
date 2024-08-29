@@ -1,6 +1,7 @@
 site_name: Hitachi Smartspaces
 theme:
-  name: material
+  custom_dir: material
+  template: home.html
   features:
     - navigation.tabs
     - navigation.sections
