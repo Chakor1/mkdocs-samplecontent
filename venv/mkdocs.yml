@@ -1,6 +1,6 @@
 site_name: Hitachi Smartspaces
 theme:
-  name: mkdocs
+  name: readthedocs
   features:
     - navigation.tabs
     - navigation.sections
