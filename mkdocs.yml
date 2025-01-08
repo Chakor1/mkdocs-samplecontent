@@ -56,3 +56,6 @@ sections:
 plugins:
   - mkdocs-yaml:
       file: index.yaml
+  - search
+  - awesome-pages
+      
