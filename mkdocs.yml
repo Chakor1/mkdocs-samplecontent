@@ -2,7 +2,7 @@ site_name: Hitachi Smartspaces
 site_description: Hitachi Smartspaces Documentation
 
 theme:
-    name: readthedocs
+    name: material
     custom_dir: overrides/
     include_search_page: false
     search_index_only: true
