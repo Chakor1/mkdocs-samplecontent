@@ -20,7 +20,7 @@ and analyzing the data can be a challenging task. Visualization Suite provides a
 of glass” for geospatial visualization to gain the situational awareness required to better
 respond to problems or even prevent them from occurring. 
 
-![Using visualization suite](../assets/images/Using visualization suite.PNG)
+![Using visualization suite](../assets/images/Using visualization suite.png)
 
 ### Cloud and on-premises solutions
 
@@ -194,7 +194,7 @@ Suite gives end-to-end, adaptable, and intelligent solutions for smart cities. T
 use integration of big data, including video feeds, event data, and social media, to give realtime
 analytics that public safety officials can act on.
 
-![End to end IT solution for smart cities](../assets/images/End to end IT solution for smart cities.PNG)
+![End to end IT solution for smart cities](../assets/images/End to end IT solution for smart cities.png)
 
 All solution components in the Smart Spaces and Video Intelligence solution stack are
 modular, functioning as building blocks for smart cities. They help all areas and organizations
@@ -228,10 +228,10 @@ Perform the following steps to reset the password:
 
 **Procedure:**
 
-1. Click **Forgot your credentials?** in the Hitachi Visualization Suite login window. <br>![](../assets/images/Forgot your credentials.PNG)<br><p>The **Recover Credentials** page appears.
+1. Click **Forgot your credentials?** in the Hitachi Visualization Suite login window. <br>![](../assets/images/Forgot your credentials.png)<br><p>The **Recover Credentials** page appears.
 
 2. Enter the email address associated with your account username.
-3. Click **Recover**.<br>![](../assets/images/Recover.PNG)<br><p>An email with "Hitachi Visualization Suite Manage account" as the subject is sent to your
+3. Click **Recover**.<br>![](../assets/images/Recover.png)<br><p>An email with "Hitachi Visualization Suite Manage account" as the subject is sent to your
    specified email address.
 
 4. Check your inbox for the email.<br>
