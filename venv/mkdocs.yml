@@ -15,6 +15,8 @@ theme:
     - toc.integrate
     - navigation.expand
     - navigation.footer
+      - generator: false
+      - copyright: © 2025 Hitachi Vantara, LLC. All rights reserved.
   
   language: en
   palette:
@@ -30,6 +32,3 @@ theme:
     - name: Switch to light mode
     - primary: teal
     - accent: lime
-- extra: 
-    generator: false
-    - copyright: © 2025 Hitachi Vantara, LLC. All rights reserved.
