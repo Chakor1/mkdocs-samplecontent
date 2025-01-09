@@ -15,7 +15,6 @@ theme:
     - toc.integrate
     - navigation.expand
     - navigation.footer
-      - copyright: © 2025 Hitachi Vantara, LLC. All rights reserved.
   
   language: en
   palette:
