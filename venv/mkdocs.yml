@@ -30,3 +30,5 @@ theme:
     - name: Switch to light mode
     - primary: teal
     - accent: lime
+- extra: 
+    generator: false
