@@ -43,4 +43,4 @@ theme:
 
   plugins: 
   - pdf-export:
-      combined: true
+      combined: false
