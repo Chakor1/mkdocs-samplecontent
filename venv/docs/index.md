@@ -6,30 +6,45 @@ title: Home
     <a href="../HVS/Page1.md">
       <div class="md-card">
         <div class="md-card__media md-card__media--16:9">
-          <img src="../assets/images/tile1.jpg" alt="HVS Tile" style="max-width: 25%;>
+          <img src="../assets/images/tile1.jpg" alt="HVS User Guide" style="max-width: 25%;>
         </div>
         <div class="md-card__content">
-          <h2 class="md-card__title">HVS</h2>
-          <p class="md-card__description">This tile belongs to HVS</p>
+          <h2 class="md-card__title">HVS User Guide</h2>
+          <p class="md-card__description">This tile belongs to HVS User Guide</p>
         </div>
       </div>
     </a>
   </div>
 
+<div class="md-grid">
   <div class="md-cell md-cell--4">
-    <a href="page2.md">
+    <a href="../HVS/Page2.md">
       <div class="md-card">
         <div class="md-card__media md-card__media--16:9">
-          <img src="images/tile2.jpg" alt="Tile 2 Image">
+          <img src="../assets/images/tile2.jpg" alt="HVS Admin Guide" style="max-width: 25%;>
         </div>
         <div class="md-card__content">
-          <h2 class="md-card__title">Tile 2 Title</h2>
-          <p class="md-card__description">Tile 2 Description</p>
+          <h2 class="md-card__title">Admin Guide</h2>
+          <p class="md-card__description">This tile belongs to HVS Admin Guide</p>
         </div>
       </div>
     </a>
   </div>
-</div>
+
+<div class="md-grid">
+  <div class="md-cell md-cell--4">
+    <a href="../HVS/Page3.md">
+      <div class="md-card">
+        <div class="md-card__media md-card__media--16:9">
+          <img src="../assets/images/tile3.jpg" alt="HVS Videos" style="max-width: 25%;>
+        </div>
+        <div class="md-card__content">
+          <h2 class="md-card__title">Demo videos</h2>
+          <p class="md-card__description">This tile belongs to HVS walkthrough videos</p>
+        </div>
+      </div>
+    </a>
+  </div></div>
 
 <style>
 .md-grid {
