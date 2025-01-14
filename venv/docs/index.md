@@ -6,7 +6,7 @@ title: Home
     <a href=[](../mkdocs-samplecontent/venv/docs/HVS/Page1.md)>
       <div class="md-card">
         <div class="md-card__media md-card__media--16:9">
-          <img src="images/tile1.png" alt="(../assets/images/tile1.png">
+          <img src="..assets/images/tile1.png" alt="tile1.png">
         </div>
         <div class="md-card__primary">
           <h2 class="md-card__title">HVS</h2>
