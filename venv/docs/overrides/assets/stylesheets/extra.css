@@ -4,7 +4,7 @@
 /*---header CSS---*/
 
 .hitachi-top-bar {
-    border-top: 4px solid #ce0000;
+    border-top: 4px solid hsl(0, 14%, 32%);
     width: 100%;
 }
 
