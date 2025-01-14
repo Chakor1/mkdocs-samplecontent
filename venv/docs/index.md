@@ -6,6 +6,7 @@ title: My MkDocs Site
    display:inline-block;
    border:2px solid;
    margin-right:50px;
+   padding:5px;
 }
 </style>
 
