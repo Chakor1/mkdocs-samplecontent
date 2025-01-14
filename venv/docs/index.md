@@ -4,6 +4,8 @@ title: My MkDocs Site
 <style>
   .md-cell{
    display:inline-block;
+   border:2px solid;
+   margin-right:50px;
 }
 </style>
 
