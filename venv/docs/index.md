@@ -1,6 +1,11 @@
 ---
 title: My MkDocs Site
 ---
+<style>
+  .md-cell{
+   display:inline-block;
+}
+</style>
 
 <div class="md-grid">
   <div class="md-cell md-cell--4">
