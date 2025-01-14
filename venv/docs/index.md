@@ -3,7 +3,7 @@ title: Home
 ---
 <div class="md-grid">
   <div class="md-cell md-cell--4">
-    <a href=[](../HVS/Page1.md)>
+    <a href=[User Guide](../HVS/Page1.md)>
       <div class="md-card">
         <div class="md-card__media md-card__media--16:9">
           <img src="..assets/images/tile1.jpg" alt="tile1">
