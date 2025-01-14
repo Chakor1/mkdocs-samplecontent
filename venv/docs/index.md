@@ -3,10 +3,10 @@ title: Home
 ---
 <div class="md-grid">
   <div class="md-cell md-cell--4">
-    <a href=[](../mkdocs-samplecontent/venv/docs/HVS/Page1.md)>
+    <a href=[](../HVS/Page1.md)>
       <div class="md-card">
         <div class="md-card__media md-card__media--16:9">
-          <img src="..assets/images/tile1.png" alt="tile1.png">
+          <img src="..assets/images/tile1.png" alt="tile1">
         </div>
         <div class="md-card__primary">
           <h2 class="md-card__title">HVS</h2>
