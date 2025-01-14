@@ -1,13 +1,17 @@
 ---
-title: Landing page
+title: Knowledge Hub
 ---
+---
+title: Landing page
+
+---
+
 <div class="md-grid">
   <div class="md-cell md-cell--4">
     <a href="../HVS/Page1.md">
       <div class="md-card">
         <div class="md-card__media md-card__media--16:9">
-          <img src="../assets/images/tile1.jpg" alt="HVS User Guide" style="max-width: 25%;>
-        </div>
+          <img src="../assets/images/tile1.jpg" alt="HVS User Guide" style="max-width: 100%;"> </div>
         <div class="md-card__content">
           <h2 class="md-card__title">HVS User Guide</h2>
           <p class="md-card__description">This tile belongs to HVS User Guide</p>
@@ -16,13 +20,11 @@ title: Landing page
     </a>
   </div>
 
-<div class="md-grid">
   <div class="md-cell md-cell--4">
     <a href="../HVS/Page2.md">
       <div class="md-card">
         <div class="md-card__media md-card__media--16:9">
-          <img src="../assets/images/tile2.jpg" alt="HVS Admin Guide" style="max-width: 25%;>
-        </div>
+          <img src="../assets/images/tile2.jpg" alt="HVS Admin Guide" style="max-width: 100%;"> </div>
         <div class="md-card__content">
           <h2 class="md-card__title">Admin Guide</h2>
           <p class="md-card__description">This tile belongs to HVS Admin Guide</p>
@@ -31,20 +33,19 @@ title: Landing page
     </a>
   </div>
 
-<div class="md-grid">
   <div class="md-cell md-cell--4">
     <a href="../HVS/Page3.md">
       <div class="md-card">
         <div class="md-card__media md-card__media--16:9">
-          <img src="../assets/images/tile3.jpg" alt="HVS Videos" style="max-width: 25%;>
-        </div>
+          <img src="../assets/images/tile3.jpg" alt="HVS Videos" style="max-width: 100%;"> </div>
         <div class="md-card__content">
           <h2 class="md-card__title">Demo videos</h2>
           <p class="md-card__description">This tile belongs to HVS walkthrough videos</p>
         </div>
       </div>
     </a>
-  </div></div>
+  </div>
+</div>
 
 <style>
 .md-grid {
@@ -59,5 +60,10 @@ title: Landing page
   margin-bottom: 20px; /* Add vertical spacing between rows */
 }
 
-
+.md-card {
+  border: 1px solid #ddd; /* Add a solid border with a light gray color */
+  border-radius: 5px; /* Add rounded corners for a more polished look */
+  padding: 20px; /* Add some padding inside the card for better content spacing */
+}
+</style>
 
