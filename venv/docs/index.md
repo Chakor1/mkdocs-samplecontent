@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Landing page
 ---
 <div class="md-grid">
   <div class="md-cell md-cell--4">
