@@ -6,7 +6,7 @@ title: Home
     <a href="../HVS/Page1.md">
       <div class="md-card">
         <div class="md-card__media md-card__media--16:9">
-          <img src="../assets/images/tile1.jpg" alt="HVS Tile" style="max-width: 100%;>
+          <img src="../assets/images/tile1.jpg" alt="HVS Tile" style="max-width: 25%;>
         </div>
         <div class="md-card__content">
           <h2 class="md-card__title">HVS</h2>
