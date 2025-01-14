@@ -12,7 +12,7 @@ title: My MkDocs Site
 
 <div class="md-grid">
   <div class="md-cell md-cell--4">
-    <a href="page1.md">
+    <a href="../mkdocs-samplecontent/venv/docs/HVS/Page1.md">
       <div class="md-card">
         <div class="md-card__media md-card__media--16:9">
           <img src="images/tile1.jpg" alt="(../assets/images/tile1.jpg">
