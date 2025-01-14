@@ -3,6 +3,8 @@ site_name: Hitachi Visualization Suite
 site_url: https://www.hvsmartspaces.com
 theme:
   name: material
+  favicon: images/favicon.png
+  logo: assets/images/logo.png
   features:
     - navigation.tabs
     - navigation.sections
@@ -41,9 +43,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
-
-  favicon: assets/images/favicon.ico
-    logo: assets/images/logo.PNG
+    
   
   plugins: 
   - pdf-export:
