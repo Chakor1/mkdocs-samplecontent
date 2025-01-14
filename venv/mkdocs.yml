@@ -1,10 +1,8 @@
 site_name: Hitachi Visualization Suite
-
-site_url: https://www.hvsmartspaces.com
 theme:
   name: material
-  favicon: images/favicon.png
-  logo: assets/images/logo.png
+  favicon: ..overrides/images/favicon.png
+  logo: ..overrides/assets/images/logo.png
   features:
     - navigation.tabs
     - navigation.sections
@@ -20,7 +18,11 @@ theme:
     - navigation.expand
     - navigation.footer
   extra_css:
-    - css/custom.css
+     - assets/stylesheets/extra.css
+     - assets/stylesheets/bootstrap.min.css  
+
+  extra_javascript:
+    - assets/javascripts/bootstrap.min.js   
   language: en
   theme:
   palette:
