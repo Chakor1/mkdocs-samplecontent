@@ -15,13 +15,13 @@ title: My MkDocs Site
     <a href="page1.md">
       <div class="md-card">
         <div class="md-card__media md-card__media--16:9">
-          <img src="images/tile1.jpg" alt="Tile 1 Image">
+          <img src="images/tile1.jpg" alt="(../assets/images/tile1.jpg">
         </div>
         <div class="md-card__primary">
-          <h2 class="md-card__title">Tile 1 Title</h2>
+          <h2 class="md-card__title">HVS tile</h2>
         </div>
         <div class="md-card__secondary">
-          <p>Tile 1 Description</p>
+          <p>This tile belongs to HVS</p>
         </div>
       </div>
     </a>
