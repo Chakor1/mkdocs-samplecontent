@@ -1,11 +1,6 @@
 ---
 title: Knowledge Hub
 ---
----
-title: Landing page
-
----
-
 <div class="md-grid">
   <div class="md-cell md-cell--4">
     <a href="../HVS/Page1.md">
