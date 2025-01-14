@@ -6,7 +6,7 @@ title: My MkDocs Site
    display:inline-block;
    border:2px solid;
    margin-right:50px;
-   padding:5px;
+   padding:8px;
 }
 </style>
 
@@ -75,13 +75,14 @@ title: My MkDocs Site
     </a>
   </div>
 
-
+<!--
   <div class="md-cell md-cell--4">
     <a href="page2.md"> 
       <div class="md-card"> 
         </div> 
       </a> 
   </div> 
+-->
 
   </div> 
 </div>
