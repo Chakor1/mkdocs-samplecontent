@@ -1,7 +1,6 @@
 site_name: Hitachi Visualization Suite
 theme:
   name: material
-  favicon: ../images/favicon.png
   logo: ../images/logo.png
   features:
     - navigation.tabs
