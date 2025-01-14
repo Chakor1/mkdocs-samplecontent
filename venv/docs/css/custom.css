@@ -1,0 +1,19 @@
+.md-grid {
+  margin-top: 2rem; /* Adjust spacing as needed */
+}
+
+.md-card {
+  /* Add your desired styles here, e.g., */
+  border-radius: 4px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+<style>
+  .md-cell{
+   display:inline-block;
+   border:2px solid;
+   margin-right:50px;
+   padding:8px;
+}
+
+/* Customize the appearance of the tiles */

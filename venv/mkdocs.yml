@@ -19,7 +19,8 @@ theme:
     - toc.integrate
     - navigation.expand
     - navigation.footer
-  
+  extra_css:
+    - css/custom.css
   language: en
   theme:
   palette:

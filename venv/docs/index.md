@@ -1,24 +1,6 @@
 ---
-title: My MkDocs Site
+title: Home
 ---
-<style>
-  .md-cell{
-   display:inline-block;
-   border:2px solid;
-   margin-right:50px;
-   padding:8px;
-}
-    .md-grid {
-  margin-top: 2rem; /* Adjust spacing as needed */
-}.md-card {
-  /* Add your desired styles here, e.g., */
-  border-radius: 4px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-}
-
-/* Customize the appearance of the tiles */
-</style>
-
 <div class="md-grid">
   <div class="md-cell md-cell--4">
     <a href=[](../mkdocs-samplecontent/venv/docs/HVS/Page1.md)>
