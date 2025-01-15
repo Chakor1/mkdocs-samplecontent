@@ -1,1 +1,0 @@
-A simple contact form for visitors to reach out.

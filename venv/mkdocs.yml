@@ -1,7 +1,8 @@
 site_name: Hitachi Visualization Suite
 theme:
   name: material
-  logo: ../images/logo.jpg
+  favicon: ../images/favicon.png
+  logo: ../images/logo.png
   features:
     - navigation.tabs
     - navigation.sections
@@ -16,6 +17,14 @@ theme:
     - toc.integrate
     - navigation.expand
     - navigation.footer
+
+  extra:
+    html_theme_options:
+    footer:
+      text: 
+        # Customize the footer text here
+        left: "© 2025 Hitachi Vantara, LLC. All rights reserved."
+        right: "Powered by <a href='https://www.hitachivantara.com/en-us/legal'>Terms of Use</a> and <a href='https://www.hitachivantara.com/en-us/legal/privacy'>Privacy Policy</a> and <a href='https://www.hitachivantara.com/en-us/legal'>Legal</a>"
   extra_css:
      - assets/stylesheets/extra.css
      - assets/stylesheets/bootstrap.min.css  

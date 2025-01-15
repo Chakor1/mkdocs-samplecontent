@@ -1,1 +1,0 @@
-A tutorial on using the mkdocs static site generator.
