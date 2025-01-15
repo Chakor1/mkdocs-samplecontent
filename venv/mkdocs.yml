@@ -2,7 +2,7 @@ site_name: Hitachi Visualization Suite
 theme:
   name: material
   favicon: ../images/favicon.png
-  logo: ../images/logo.png
+  logo: ../images/logo.jpg
   features:
     - navigation.tabs
     - navigation.sections
@@ -19,7 +19,6 @@ theme:
     - navigation.footer
 
   extra:
-    html_theme_options:
     footer:
       text: 
         # Customize the footer text here
