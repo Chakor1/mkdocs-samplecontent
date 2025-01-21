@@ -1,12 +1,13 @@
 ---
-title: Knowledge Hub
+title: Home
 ---
 <div class="md-grid">
   <div class="md-cell md-cell--4">
     <a href="../HVS/HowToUse.md">
       <div class="md-card">
         <div class="md-card__media md-card__media--16:9">
-          <img src="../assets/images/tile1.jpg" alt="HVS User Guide" style="max-width: 100%;"> </div>
+          <img src="../assets/images/tile1.jpg" alt="HVS User Guide" style="max-width: 100%; height: 200px; margin:0px auto;">
+        </div>
         <div class="md-card__content">
           <h2 class="md-card__title">HVS User Guide</h2>
           <p class="md-card__description">This tile belongs to HVS User Guide</p>
@@ -15,12 +16,12 @@ title: Knowledge Hub
     </a>
   </div>
 
-
   <div class="md-cell md-cell--4">
     <a href="../HVS/Page2.md">
       <div class="md-card">
         <div class="md-card__media md-card__media--16:9">
-          <img src="../assets/images/tile2.jpg" alt="HVS Admin Guide" style="max-width: 100%;"> </div>
+          <img src="../assets/images/tile2.jpg" alt="HVS Admin Guide" style="max-width: 100%;">
+        </div>
         <div class="md-card__content">
           <h2 class="md-card__title">Admin Guide</h2>
           <p class="md-card__description">This tile belongs to HVS Admin Guide</p>
@@ -33,10 +34,25 @@ title: Knowledge Hub
     <a href="../HVS/Page3.md">
       <div class="md-card">
         <div class="md-card__media md-card__media--16:9">
-          <img src="../assets/images/tile3.jpg" alt="HVS Videos" style="max-width: 100%;"> </div>
+          <img src="../assets/images/tile3.jpg" alt="HVS Videos" style="max-width: 100%;">
+        </div>
         <div class="md-card__content">
           <h2 class="md-card__title">Demo videos</h2>
           <p class="md-card__description">This tile belongs to HVS walkthrough videos</p>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="md-cell md-cell--4">
+    <a href="../HVS/Page4.md">
+      <div class="md-card">
+        <div class="md-card__media md-card__media--16:9">
+          <img src="../assets/images/tile4.jpg" alt="Release Notes" style="max-width: 100%;">
+        </div>
+        <div class="md-card__content">
+          <h2 class="md-card__title">Release Notes</h2>
+          <p class="md-card__description">This tile belongs to HVS release notes</p>
         </div>
       </div>
     </a>

@@ -18,9 +18,9 @@ theme:
     - navigation.expand
     - navigation.footer
 
-  extra_css:
-     - ..assets/stylesheets/extra.css
-     - ..assets/stylesheets/bootstrap.min.css  
+  # extra_css:
+  #    - ..assets/stylesheets/extra.css
+  #    - ..assets/stylesheets/bootstrap.min.css  
 
   extra_javascript:
     - ..assets/javascripts/bootstrap.min.js   
@@ -31,7 +31,7 @@ theme:
       text: 
         # Customize the footer text here
         left: "© 2025 Hitachi Vantara, LLC. All rights reserved."
-        right: "Powered by <a href='https://www.hitachivantara.com/en-us/legal'>Terms of Use</a> and <a href='https://www.hitachivantara.com/en-us/legal/privacy'>Privacy Policy</a> and <a href='https://www.hitachivantara.com/en-us/legal'>Legal</a>"
+        right: "<a href='https://www.hitachivantara.com/en-us/legal'>Terms of Use</a> and <a href='https://www.hitachivantara.com/en-us/legal/privacy'>Privacy Policy</a> and <a href='https://www.hitachivantara.com/en-us/legal'>Legal</a>"
   palette:
 
     # Palette toggle for automatic mode
@@ -53,6 +53,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
+ 
     
   
   plugins: 
