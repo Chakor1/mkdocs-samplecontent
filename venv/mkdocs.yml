@@ -27,7 +27,7 @@ theme:
   language: en
   theme:
   extra:
-    footer:
+  - footer:
       text: 
         # Customize the footer text here
         left: "© 2025 Hitachi Vantara, LLC. All rights reserved."
